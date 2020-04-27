@@ -4,8 +4,8 @@ This template is an example integration of automatic updates for commercial Joom
 
 Tutorial: [Integrate automatic updates to your free or premium Joomla extensions](https://updatr.io/docs/1.x/update-server-free-commercial-joomla-extensions-templates)
 
-## About Updatr.io
+## About Updatr
 
-[Updatr.io](https://updatr.io) is a reliable update server and license manager for your premium WordPress plugins and themes, Joomla extensions and templates, or any other web-based applications for which Continuous Delivery is not possible. (e.g. when your application is hosted on your customer's server, but you don't have access to the server to set up automatic deployments).
+[Updatr](https://updatr.io) is a reliable update server and license manager for premium WordPress plugins and themes, Joomla extensions and templates, or any other web-based applications for which continuous delivery is not possible. (e.g. when your application is hosted on your customer's server and you don't have access to the server to set up automatic deployments).
 
-**Updatr.io is free for all open source, non-commercial Joomla extensions.**
+**Updatr is free for all open source, non-commercial Joomla extensions and templates.**
