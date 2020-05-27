@@ -9,14 +9,14 @@ JFormHelper::loadFieldClass('text');
 // This allows us to include the same file in more of our
 // premium extensions that require a download key,
 // without the need to create a custom field type name for each
-if (\class_exists('JFormFieldUpdatr_DownloadKey')) {
+if (\class_exists('JFormFieldUpdaterCloud_DownloadKey')) {
     return;
 }
 
-class JFormFieldUpdatr_DownloadKey extends JFormFieldText
+class JFormFieldUpdaterCloud_DownloadKey extends JFormFieldText
 {
     // The form field type must be declared in the $type variable
-    protected $type = 'updatr_downloadkey';
+    protected $type = 'updatercloud_downloadkey';
 
     public function getInput()
     {

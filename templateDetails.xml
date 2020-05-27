@@ -4,10 +4,10 @@
 	<name>helloworld_template</name>
 	<author>Aladar Barthi</author>
 	<creationDate>August 2018</creationDate>
-	<copyright>Copyright (C) 2018 - 2020 Updatr.io. All rights reserved.</copyright>
+	<copyright>Copyright (C) 2018 - 2020 UpdaterCloud.com. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
-	<authorEmail>support@updatr.io</authorEmail>
-	<authorUrl>updatr.io</authorUrl>
+	<authorEmail>support@updatercloud.com</authorEmail>
+	<authorUrl>updatercloud.com</authorUrl>
 	<version>1.0.0</version>
 	<description>Hello World template for Joomla.</description>
 	<files>
@@ -26,7 +26,7 @@
 			<fieldset name="basic" addfieldpath="/templates/helloworld_template/fields">
                 <field
                     name="download_key"
-                    type="updatr_downloadkey"
+                    type="updatercloud_downloadkey"
                     label="Download Key"
                     description="Download key field description"
                     default=""
@@ -37,6 +37,6 @@
 		</fields>
 	</config>
     <updateservers>
-        <server type="extension" name="Hello World Joomla Template Updates">http://sandbox.updatr.vagrant/api/v1/update-channels/hello-world-joomla-template-updates.xml</server>
+        <server type="extension" name="Hello World Joomla Template Updates">http://sandbox.updatercloud.vagrant/api/v1/update-channels/hello-world-joomla-template-updates.xml</server>
     </updateservers>
 </extension>
